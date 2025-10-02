@@ -1,0 +1,5 @@
+{
+  "name": "Comparative Adjective Magic!",
+  "description": "A fun and educational app for kids that uses AI to generate cartoon images comparing two students based on a randomly drawn adjective. Students upload their photos, draw an adjective, and the app creates a magical image.",
+  "requestFramePermissions": []
+}
